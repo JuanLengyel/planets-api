@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/C9k4/A4aoJDApVtVpWx0c4lFx+mhSC0pIkMy6c311pjBWU0q1Lqvs/QOEN8dcdhYlSsiJAcMsBWlvNtKbXEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan.lengyel\\Documents\\planets-api-v2\\planets-api-v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan.lengyel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
